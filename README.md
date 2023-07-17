@@ -10,5 +10,5 @@ O CodeMaster é um aplicativo web que oferece aos usuários um espaço para expl
 
 - **Artigos Abrangentes:** O aplicativo apresenta uma vasta coleção de artigos que abrangem conceitos fundamentais e tópicos avançados de diversas linguagens de programação, incluindo Python, Java, C++ e muito mais.
 
-<img src="../src/assets/resultado1.png" >
-<img src="../src/assets/resultado2.png" >
+<img src="./src/assets/resultado1.png" >
+<img src="./src/assets/resultado2.png" >
