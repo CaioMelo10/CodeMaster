@@ -10,6 +10,9 @@ O CodeMaster é um aplicativo web que oferece aos usuários um espaço para expl
 
 - **Artigos Abrangentes:** O aplicativo apresenta uma vasta coleção de artigos que abrangem conceitos fundamentais e tópicos avançados de diversas linguagens de programação, incluindo Python, Java, C++ e muito mais.
 
+### 👥 Confira:
+https://codemaster-dev.netlify.app/
+
 <img src="./src/assets/resultado1.png" >
 <br>
 <img src="./src/assets/resultado2.png" >
